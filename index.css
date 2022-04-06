@@ -1,0 +1,54 @@
+/* подключаю нормалаиз */
+@import url(/vendor/normalize.css);
+/* подключаю рут */
+@import url(/blocks/root/root.css);
+/* анимации, трансформации и переиспользуемые блоки*/
+@import url(/blocks/rotations/rotations.css);
+@import url(/blocks/links/links.css);
+
+@import url(/blocks/logo/logo.css);
+@import url(/blocks/logo/_place/logo_place_header.css);
+@import url(/blocks/logo/_place/loho_place_footer.css);
+
+@import url(/blocks/columns/two-columns.css);
+
+@import url(/blocks/titles/titles.css);
+
+@import url(/blocks/tables/table.css);
+@import url(/blocks/tables/_theme_dark/table__cell_theme_dark.css);
+
+/* хеадер */
+@import url(/blocks/header/header.css);
+/* дискриптион две колонки */
+@import url(/blocks/content/description/description.css);
+
+/* техники*/
+@import url(/blocks/content/techniques/techniques.css);
+@import url(/blocks/content/techniques/__cards/cards.css);
+/* видео*/
+@import url(/blocks/content/video/video.css);
+/* барбара оукли*/
+@import url(/blocks/content/oakley/oakley.css);
+/* феунман*/
+@import url(/blocks/content/feynman/feynman.css);
+@import url(/blocks/content/feynman/__titles/feynman__titles.css);
+@import url(/blocks/content/feynman/__link/feynman__link.css);
+@import url(/blocks/content/feynman/__illustration/feynman__illustration.css);
+/* дигитс */
+@import url(/blocks/content/digits/digits.css);
+/* кхан*/
+@import url(/blocks/content/khan/khan.css);
+/* кауфман*/
+@import url(/blocks/content/kaufman/kaufman.css);
+@import url(/blocks/content/kaufman/__triangle/kaufman__triangle.css);
+
+/* русурсы*/
+@import url(/blocks/content/resources/resources.css);
+/* футер*/
+@import url(/blocks/footer/footer.css);
+
+
+
+
+
+
