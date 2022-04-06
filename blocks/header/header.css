@@ -9,7 +9,7 @@
     position: relative;
     overflow: hidden;
   }
-  
+
 
   .header__title {
     width: 730px;
@@ -20,7 +20,7 @@
     margin: 0px 0px 0px 64px;
     padding: 0px;
   }
-  
+
   .header__subtitle {
     width: 388px;
     position: absolute;
@@ -33,11 +33,11 @@
     margin: 0px;
     padding: 0px;
   }
-  
+
   .header__link {
     color: #2f80ed;
   }
-  
+
   .header__main-illustration {
     width: 765px;
     height: 608px;
@@ -48,7 +48,7 @@
     right: 0px;
     z-index: 2;
   }
-  
+
   /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
   .header__square-pic {
     height: 568px;
@@ -58,11 +58,8 @@
     top: 64px;
     background-color: #2f80ed;
     z-index: 1;
-
-    
   }
 
 
 
 
-      
