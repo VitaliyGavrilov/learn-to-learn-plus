@@ -6,22 +6,3 @@
   padding: 100px 0px 217px 0px;
   margin: 0px;
 }
-
-.resources__logo-zone {
-  display: flex;
-  width: 1100px;
-  align-items: center;
-  justify-content: space-between;
-  margin: 80px 0px 0px 0px;
-  padding: 0px;
-}
-
-.resources__link {
-  margin: 0px;
-  padding: 0px;
-}
-
-.resources__logo {
-  width: 270px;
-  height: 38px;
-}
