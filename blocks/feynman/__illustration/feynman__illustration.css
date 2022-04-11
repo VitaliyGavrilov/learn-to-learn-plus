@@ -1,12 +1,11 @@
 
 .feynman__illustration {
-    background-image: url(/images/feinman.png);
-    background-size: cover;
-    position: absolute;
-    left: 0px;
-    bottom: 0px;
-    width: 867px;
-    height: 637px;
-    z-index: 2;
-  }
-  
+  background-image: url(./images/feinman.png);
+  background-size: cover;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 867px;
+  height: 637px;
+  z-index: 2;
+}
