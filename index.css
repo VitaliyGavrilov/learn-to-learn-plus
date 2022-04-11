@@ -5,7 +5,7 @@
 /* анимация-поворот */
 @import url(./blocks/rotations/rotations.css);
 /* анимация-затемнение */
-@import url(./blocks/opacity/link-opacity.css);
+@import url(./blocks/link-opacity/link-opacity.css);
 /* заголовки */
 @import url(./blocks/title/title.css);
 @import url(./blocks/subtitle/subtitle.css);
@@ -18,7 +18,7 @@
 /* лого */
 @import url(./blocks/logo/logo.css);
 @import url(./blocks/logo/_place/logo_place_header.css);
-@import url(./blocks/logo/_place/loho_place_footer.css);
+@import url(./blocks/logo/_place/logo_place_footer.css);
 /* хеадер */
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__title/header__title.css);
@@ -29,11 +29,11 @@
 /* дискриптион */
 @import url(./blocks/description/description.css);
 /* две колонки(re-block) */
-@import url(./blocks/columns/two-columns.css);
-@import url(./blocks/columns/__brief/two-columns__brief.css);
-@import url(./blocks/columns/__main-text/two-columns__main-text.css);
-@import url(./blocks/columns/__paragraph/two-columns__paragraph.css);
-@import url(./blocks/columns/__span-accent/two-columns__span-accent.css);
+@import url(./blocks/two-columns/two-columns.css);
+@import url(./blocks/two-columns/__brief/two-columns__brief.css);
+@import url(./blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(./blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(./blocks/two-columns/__span-accent/two-columns__span-accent.css);
 /* карточки */
 @import url(./blocks/cards/cards.css);
 @import url(./blocks/cards/__item/cards__item.css);
