@@ -2,6 +2,9 @@
 .video__iframe {
   margin: 0px 20px 0px 0px;
   padding: 0px;
+  width: 515px;
+  height: 316px;
+  border: 0px;
 }
 
 .video__iframe:last-of-type {

@@ -1,6 +1,6 @@
 
 .feynman__illustration {
-  background-image: url(./images/feinman.png);
+  background-image: url(/images/feinman.png);
   background-size: cover;
   position: absolute;
   left: 0px;
