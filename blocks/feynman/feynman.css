@@ -1,11 +1,12 @@
 
 .feynman {
   background-color: #f2f2f2;
-  height: 790px;
+  height: 890px;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: relative;
   margin: 0px;
   padding: 100px 0px 0px 0px;
+  box-sizing: border-box;
 }
